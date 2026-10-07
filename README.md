@@ -2,7 +2,7 @@
 
 This is the **knowledge base repo** used in the **AIDE Deep Dive course** (also known as the AIDE Crash Course). Over the course of the session you will build up the notes, context, and reference material that make up your knowledge base here.
 
-Its siblings are [`course-project-workspace`](https://github.com/somanarayanan-em/course-project-workspace), which holds the framework and the project configuration and is the one you clone first, and [`course-specifications-repo`](https://github.com/somanarayanan-em/quic-notes-specifications-repo), which holds your requirements, solution, and implementation specifications.
+Its siblings are [`course-project-workspace`](https://github.com/somanarayanan-em/course-project-workspace), which holds the framework and the project configuration and is the one you clone first, and [`quic-notes-specifications-repo`](https://github.com/somanarayanan-em/quic-notes-specifications-repo), which holds your requirements, solution, and implementation specifications.
 
 ## Nothing is ever merged into `main`
 
